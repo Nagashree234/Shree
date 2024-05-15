@@ -1,0 +1,35 @@
+*{
+    background-color:palegoldenrod;
+}
+body{
+    background-image: url("img/20230512_134911.jpg");
+    background-repeat: no-repeat;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: yellow;
+    /*text properties  */
+    color: black;
+    direction:initial;
+    letter-spacing: 50px;
+    word-break:calc();
+    word-spacing: 400px;
+    text-align: center;
+    text-decoration: overline;
+    text-transform: uppercase;
+    text-shadow: 1px 4px 1px black;
+}
+div{
+   width: 1000px;
+   height: 1000px;
+   background-color: blueviolet;
+border-left: 4px solid black;
+border-right: 4px solid black;
+border-top-left-radius: 50%;
+border-bottom-right-radius: 50%;
+}
+img{
+    width: 10px;
+    height: 10px;
+    border-radius: 5%;
+}
